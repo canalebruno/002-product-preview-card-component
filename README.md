@@ -7,7 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  <!-- - [Links](#links) -->
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -25,10 +25,10 @@ Users should be able to:
 
 ![](./public/Screenshot_Desktop.png)
 
-<!-- ### Links -->
+### Links
 
-<!-- - Solution URL: https://your-solution-url.com -->
-<!-- - Live Site URL: https://your-live-site-url.com -->
+- Solution URL: https://github.com/canalebruno/002-product-preview-card-component
+- Live Site URL: https://002-product-preview-card-component.vercel.app/
 
 ## My process
 
